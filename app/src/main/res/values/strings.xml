@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarApiDemo</string>
+    <string name="query_calendar">Query Calendar</string>
+    <string name="modify_calendar">Modify Calendar</string>
+    <string name="insert_event">Insert Event</string>
+    <string name="modify_event">Modify Event</string>
+</resources>
